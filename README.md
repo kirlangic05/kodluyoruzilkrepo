@@ -1,3 +1,6 @@
+![Lorem Picsum Gorsel](https://pbs.twimg.com/profile_images/1592510098915659778/7gVpz6uC_400x400.jpg)
+***
+
 # KODLUYORUZ İLK REPO
 
 Bu repo [Patika](www.patika.dev) Back-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
